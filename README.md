@@ -1,7 +1,12 @@
-# practice-demo
+# practice-demo for hacktoberfest
 
-## For student to students
+This repo is only for begineers
 
-- only for begineers
+- steps
+1) fork the repo
+2) add file
+3) make PR
+4) star the repo
 
-If anyone want to contribute then go ahead....
+
+
