@@ -1,3 +1,7 @@
 # practice-demo
 
-If anyone want to contribute in readme file then go ahead....
+## For student to students
+
+- only for begineers
+
+If anyone want to contribute then go ahead....
