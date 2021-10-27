@@ -5,7 +5,7 @@
 
 This repo is only for begineers
 
-- steps
+# Steps to contribute
 1) fork the repo
 2) add file
 3) make PR
